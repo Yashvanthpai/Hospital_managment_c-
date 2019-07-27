@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trail", "Trail\Trail.csproj", "{38C1B9B0-4857-49B7-89A1-91CDCFCBFE12}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{A1F62EC6-F3EC-4C64-A990-7DBA585C8247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C1B9B0-4857-49B7-89A1-91CDCFCBFE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C1B9B0-4857-49B7-89A1-91CDCFCBFE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C1B9B0-4857-49B7-89A1-91CDCFCBFE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C1B9B0-4857-49B7-89A1-91CDCFCBFE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F62EC6-F3EC-4C64-A990-7DBA585C8247}.Debug|Any CPU.ActiveCfg = Debug
+		{A1F62EC6-F3EC-4C64-A990-7DBA585C8247}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1ACDEA4-F2BF-4569-BD65-E6EDBE8317C6}
+	EndGlobalSection
+EndGlobal
